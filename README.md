@@ -3,6 +3,8 @@
 A simple and beginner-friendly Solidity smart contract that stores and updates a message on the Ethereum blockchain.
 
 ---
+![Uploading 559587359_18346638478204217_2531434570703947666_n.jpeg…]()
+
 
 ## 📖 Project Description
 
